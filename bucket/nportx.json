@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nxt3r/nportx/releases/download/v0.1.0/nportx-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.com/nxt3r/nportx/releases/download/v0.1.1/nportx-x86_64-pc-windows-msvc.zip",
             "hash": "eb3bd1f4ad3710e2ce3df260f8120f4346d3d1fadfe248aee2ea60b10c98dac7"
         }
     },
