@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Find and kill processes hogging your ports. Instantly. Cross-platform. Single binary.",
     "homepage": "https://github.com/nxt3r/nportx",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nxt3r/nportx/releases/download/v0.1.1/nportx-x86_64-pc-windows-msvc.zip",
-            "hash": "eb3bd1f4ad3710e2ce3df260f8120f4346d3d1fadfe248aee2ea60b10c98dac7"
+            "url": "https://github.com/nxt3r/nportx/releases/download/v0.2.0/nportx-x86_64-pc-windows-msvc.zip",
+            "hash": "52e3d5f80c18d7f266fe0cfc931a6bf04c6098445872992ddcdee88a8d3bc4a6"
         }
     },
     "bin": "nportx.exe",
